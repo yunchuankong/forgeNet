@@ -30,7 +30,7 @@ n_genes = np.shape(expression)[1]
 labels = np.stack((1-label_vec, label_vec), axis=1)
 
 ## train-test split
-expression_train, expression_test, y_train, y_test = train_test_split(expression, labels, test_size=0.2, shuffle=False)
+expression_train, expression_test, y_train, y_test = train_test_split(expression, labels, test_size=0.2, shuffle=True)
 
 print("Case proportion in training data:", round(sum(y_train[:,1])/np.shape(y_train)[0], 3))
 print("Case proportion in testing data:", round(sum(y_test[:,1])/np.shape(y_test)[0], 3))
