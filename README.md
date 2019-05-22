@@ -1,6 +1,6 @@
 # forgeNet
 
-forgeNet: **for**rest **g**raph-**e**mbedded deep feedforward **net**works - Tensorflow implementation
+forgeNet: **for**est **g**raph-**e**mbedded deep feedforward **net**works - Tensorflow implementation
 
 The method is introduced in .
 
