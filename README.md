@@ -11,7 +11,7 @@ The following packages are required for executing the main code file:
 * NumPy http://www.numpy.org/
 * Scikit-learn http://scikit-learn.org/stable/install.html
 * XGBoost https://xgboost.readthedocs.io/en/latest/index.html
-* Tensorflow https://www.tensorflow.org/install/
+* Tensorflow (1.x) https://www.tensorflow.org/install/
 
 ## Usage
 
