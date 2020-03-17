@@ -2,7 +2,7 @@
 
 forgeNet: **for**est **g**raph-**e**mbedded deep feedforward **net**works - Tensorflow implementation
 
-The method is introduced in https://arxiv.org/abs/1905.09889.
+The method is introduced in https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa164/5803642.
 
 ## Prerequisites
 
